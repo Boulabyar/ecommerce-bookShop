@@ -30,5 +30,6 @@ checkout fields check         |  contact
 
 about us            
 :-------------------------:|
-![about us](https://user-images.githubusercontent.com/50002456/147712647-dbe759a3-fdc2-4a63-b7e9-4add58f8ecfb.png)|
+![AboutUs](https://user-images.githubusercontent.com/50002456/227746473-d3e04044-f3ff-40eb-93d4-087cb068aa19.jpg)
+|
 
