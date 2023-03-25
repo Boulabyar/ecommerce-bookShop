@@ -26,7 +26,7 @@ cart         |  checkout
 
 checkout fields check         |  contact         
 :-------------------------:|:-------------------------:|
-![checkout fields check](https://user-images.githubusercontent.com/50002456/147712625-7c9a256b-71d3-4a52-925c-6dee4348fcdb.png)|![contact](https://user-images.githubusercontent.com/50002456/147712632-2529c519-a923-4693-b27a-1cd3561c509e.png)
+![confirmation_commande](https://user-images.githubusercontent.com/50002456/227746586-b4f39e26-eaea-4c45-be0d-6d7eaa03f797.jpg)|![contact](https://user-images.githubusercontent.com/50002456/147712632-2529c519-a923-4693-b27a-1cd3561c509e.png)
 
 about us            
 :-------------------------:|
