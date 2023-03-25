@@ -15,9 +15,10 @@ list books         |  list books By criteria
 ![list books](https://user-images.githubusercontent.com/50002456/147712574-3c873547-507e-4825-b530-5445054ae564.png)|![list books by criteria](https://user-images.githubusercontent.com/50002456/227746054-f54df00c-b7a8-49a6-9ca6-67ab353c54ed.jpg)
 
 
-item description page                 | books gategories       
+item description page                 | cart bubble       
 :-------------------------:|:-------------------------:|
-![item description page](https://user-images.githubusercontent.com/50002456/147712594-f2534f54-d2d9-4118-b5c6-875a2d11daac.png)|![books gategories](https://user-images.githubusercontent.com/50002456/147712601-c0cd4334-be05-478b-a0a7-ebe0119e5991.png)
+![item description page](https://user-images.githubusercontent.com/50002456/147712594-f2534f54-d2d9-4118-b5c6-875a2d11daac.png)|![panier bulle](https://user-images.githubusercontent.com/50002456/227746406-577f084f-4bd0-44ae-b242-789d2aae4a9c.jpg)
+
 
 cart         |  checkout              
 :-------------------------:|:-------------------------:|
