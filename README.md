@@ -8,7 +8,7 @@ Réaliser par : Boulabiar Majdi
 
 Home Page               |  Hot Item               
 :-------------------------:|:-------------------------:|
-![home](https://user-images.githubusercontent.com/50002456/227745671-05159c80-07af-4c63-9b8f-1d7ea4a5c7fd.jpg?raw=true)|![Hot Item](https://user-images.githubusercontent.com/50002456/227745882-6f9c8e45-aeb7-4bdd-89bf-b2c35f3a3320.jpg)?raw=true)|
+![home](https://user-images.githubusercontent.com/50002456/227745671-05159c80-07af-4c63-9b8f-1d7ea4a5c7fd.jpg?raw=true)|![Hot Item](https://user-images.githubusercontent.com/50002456/227745882-6f9c8e45-aeb7-4bdd-89bf-b2c35f3a3320.jpg?raw=true)|
 
 list books         |  list books By criteria      
 :-------------------------:|:-------------------------:|
