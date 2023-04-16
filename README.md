@@ -1,4 +1,4 @@
-# ecommerce-shopBooks
+# ecommerce-BookShop
 shopBooks it is an e-commerce site for selling books online make with the two Frameworks SpringBoot and Angular.
 
 REST APIs, DB `SQL`.
